@@ -38,7 +38,6 @@ body{
 }
 .main__card{
     width: 80%;
-    margin-top: 2rem;
     background: var(--White);
     position: absolute;
     top: 50%;
