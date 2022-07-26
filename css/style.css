@@ -126,7 +126,7 @@ body{
         flex-direction: row;
         height: 75%;
         width: 60%;
-        margin-top: 5rem;
+        padding-top: 5rem;
 
     }
     .main__card__img{
